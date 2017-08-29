@@ -2,5 +2,5 @@
 
 <li>dive into AJAX with Vanilla JS and NO JQUERY. </li>
 <li>examine the XHR object and how it works. </li>
-very basic JavaScript knowledge.
+<li>very basic JavaScript knowledge.</li>
 make xhr requests to a txt file, local json files, an external API and even PHP files.
